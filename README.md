@@ -9,3 +9,5 @@ Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising
   year={2024},
   doi={10.1109/TGRS.2024.3414956}}
 ```
+## Acknowledgements
+This repository is based on [HSIR](https://github.com/bit-isp/HSIR).
