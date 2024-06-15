@@ -1,7 +1,7 @@
 # HyLoRa
 Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising
 
-```
+```bibtex
 @article{tanxiaodong2024lowrankprompt,
   author={Tan, Xiaodong and Shao, Mingwen and Qiao, Yuanjian and Liu, Tiyao and Cao, Xiangyong},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
