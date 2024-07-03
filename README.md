@@ -2,7 +2,7 @@
 Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising
 
 ## Guide
-Git clone the [HSIR](https://github.com/bit-isp/HSIR) repository, and copy files in model into corresponding position HSIR. 
+Git clone the [HSIR](https://github.com/bit-isp/HSIR) repository, and copy files in model into corresponding position of HSIR. 
 
 Then run command as follows,
 ```
