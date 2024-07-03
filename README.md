@@ -2,11 +2,11 @@
 Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising
 
 ## Guide
-Git clone the [HSIR](https://github.com/bit-isp/HSIR) repository, and copy files in model into corresponding position of HSIR. 
+Install the [HSIR](https://github.com/bit-isp/HSIR) package, and clone this repository. 
 
 Then run command as follows,
 ```
-python -m hsirun.train -a hylora.hylora -s schedule.denoise_default
+python -m hsirun.train -a model.hylora -s schedule.denoise_default
 ```
 
 ```bibtex
