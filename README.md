@@ -2,6 +2,10 @@
 Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising
 
 ## Guide
+You can use training code from [HSDT](https://github.com/Zeqiang-Lai/HSDT) 
+
+### or
+
 Install the [HSIR](https://github.com/bit-isp/HSIR) package, and clone this repository. 
 
 Then run command as follows,
