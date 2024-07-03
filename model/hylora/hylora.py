@@ -157,7 +157,6 @@ class Prompt(nn.Module):
     def __init__(self, num_feat, squeeze_factor=16, memory_blocks=128):
         super(Prompt, self).__init__()
         
-        self.pool = nn.AdaptiveAvgPool1d(1)
         self.latent_len = num_feat // squeeze_factor
         self.subnet = nn.Sequential(
             nn.Linear(num_feat, self.latent_len , bias=False),
