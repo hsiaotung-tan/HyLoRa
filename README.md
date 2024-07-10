@@ -1,5 +1,6 @@
 # HyLoRa
-Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising
+
+This repo is the official implementation of "[Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/document/10557690/)".
 
 ![本地路径](./asset/fig_01.png "Overall structure of HyLoRa")
 
