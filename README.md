@@ -29,4 +29,4 @@ python -m hsirun.train -a model.hylora -s schedule.denoise_default
   doi={10.1109/TGRS.2024.3414956}}
 ```
 ## Acknowledgements
-This repository is based on [HSIR](https://github.com/bit-isp/HSIR).
+This repository is based on [HSIR](https://github.com/bit-isp/HSIR) and [CSWin Transformer](https://github.com/microsoft/CSWin-Transformer).
